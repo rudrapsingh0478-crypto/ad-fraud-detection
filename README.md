@@ -5,9 +5,6 @@ TalkingData AdTracking dataset. The project tests whether features that capture 
 app, channel and time relate to each other improve standard machine-learning models over raw
 click fields alone.
 
-**Team:** Rudra Pratap Singh, Sach Tayal, Rakshit Nain, Rishabh Chauhan (Group 07)
-**Supervisor:** Dr. Shweta Ray
-
 ## Approach
 
 - **Dataset:** TalkingData AdTracking Fraud Detection (Kaggle). The first 1,000,000 clicks of
