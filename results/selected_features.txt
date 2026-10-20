@@ -1,0 +1,12 @@
+app
+channel
+ip_cnt
+ip_app_cnt
+ip_dev_os_cnt
+ip_app_hour_cnt
+ip_clicks_per_app
+ip_clicks_per_channel
+ip_app_share
+dev_os_app_nuniq_ip
+ip_quick_cnt
+coord_score

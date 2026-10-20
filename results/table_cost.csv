@@ -1,0 +1,13 @@
+feature_set,model,n_features,accuracy,train_s,infer_ms_per_1000
+baseline (raw),LogReg,6,0.9941,2.82,0.44
+baseline (raw),RandomForest,6,0.9971,14.29,2.56
+baseline (raw),LightGBM,6,0.9904,14.82,11.92
+baseline (raw),XGBoost,6,0.9979,19.53,2.43
+proposed (all),LogReg,24,0.989,20.37,1.82
+proposed (all),RandomForest,24,0.9983,23.18,2.86
+proposed (all),LightGBM,24,0.996,34.2,9.89
+proposed (all),XGBoost,24,0.9987,50.24,2.87
+selected (top 12),LogReg,12,0.9896,9.24,0.64
+selected (top 12),RandomForest,12,0.9981,26.0,2.83
+selected (top 12),LightGBM,12,0.998,33.62,12.27
+selected (top 12),XGBoost,12,0.9985,47.88,10.7
